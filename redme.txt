@@ -1,4 +1,4 @@
-请执行以下命令
+please try this command:
 
-1，创建一个以自己名称命名的文件
-2，提交一次修改
+1，create a file name by your englishname
+2, push the file you just create
